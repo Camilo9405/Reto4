@@ -1,6 +1,6 @@
 Reto4:
 
-Esquemo donde se ve la creación de las tablas
+Esquema donde se ve la creación de las tablas
 
 Consultas reto4.
 
